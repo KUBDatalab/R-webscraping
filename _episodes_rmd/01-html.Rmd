@@ -1,0 +1,27 @@
+---
+title: "html-struktur, hvad gemmer der sig bag skærmen?"
+teaching: 50
+exercises: 30
+questions:
+- "Hvad gemmer der sig bag skærmen??"
+objectives: 
+- "Vi skal forstå hvad der sker i html'en."
+source: Rmd
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("01-")
+source("../bin/download_data.R")
+```
+
+A webpage may look fancy and colorfull. But everything on a webpage is defined
+using text.
+
+
+
+
+{% include links.md %}

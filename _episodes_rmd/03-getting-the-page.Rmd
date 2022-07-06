@@ -1,0 +1,34 @@
+---
+title: "html-struktur, hvad gemmer der sig bag skærmen?"
+teaching: 50
+exercises: 30
+questions:
+- "Getting the webpage - and what can go wrong"
+objectives: 
+- "Vi skal forstå hvad der sker i html'en."
+source: Rmd
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("01-")
+source("../bin/download_data.R")
+```
+
+Noget om selenium? java. 
+
+bs
+
+```{r}
+res_rvest <- rvest::read_html("https://kubdatalab.github.io/R-webscraping/")
+res_get <- httr::GET("https://kubdatalab.github.io/R-webscraping/")
+res_readr <- readr:::read_file("https://kubdatalab.github.io/R-webscraping/")
+res_get %>% content(as="parsed")
+```
+
+
+
+{% include links.md %}

@@ -1,14 +1,15 @@
 ---
-title: "Introduction to R"
+title: "Introduction to webscraping using R"
 teaching: 50
 exercises: 30
 questions:
 - "What data types are available in R?"
-
 objectives: 
 - "A quick recap of the following concepts:"
-
 source: Rmd
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 ```{r, include=FALSE}
@@ -17,36 +18,56 @@ knitr_fig_path("01-")
 source("../bin/download_data.R")
 ```
 
-This is not an introduction to R. We are assuming that you have a working 
-relationship with R, and are familiar with the following concepts.
+This is not an introduction to R. We are assuming that you have a
+working relationship with R, and are familiar with the following
+concepts.
 
 LISTE
 
-If you do not know these concepts, you will probably not have a great experience
-following this course, and it is recommended that you follow one of our 
-introductory courses
+If you do not know these concepts, you will probably not have a great
+experience following this course, and it is recommended that you follow
+one of our introductory courses
 
 LINKS
 
 or gain familiarity with R in another way.
 
+Scraping the web, otherwise known as harvesting data, is an important
+tool for gathering data on a multitude of subjects.
 
-Scraping the web, otherwise known as harvesting data, is an important tool for
-gathering data on a multitude of subjects. 
+Articles from newspapers Press announcements from organisations -
+including those on page 2 of the website Current weather Grapping a
+current image of St. Peters Basilica for live estimations of
+visitornumbers.
+(<https://www.webcamgalore.com/webcam/Vatican-City/Vatican-City/3115.html>)
+Anyway, there is something on the web. We would like to get a copy of
+it.
 
-Articles from newspapers
-Press announcements from organisations - including those on page 2 of the website
-Current weather
-Grapping a current image of St. Peters Basilica for live estimations of visitornumbers.
-
-Anyway, there is something on the web. We would like to get a copy of it.
-
-And rather than going to the website manually and copy paste the date we want,
-it would be preferable to get the computer to do it for us.
+And rather than going to the website manually and copy paste the data we
+want, it would be preferable to get the computer to do it for us.
 
 How do we do that?
 
-First of all we need to know just a little bit about the structure of webpages.
+First of all we need to know just a little bit about the structure of
+webpages.
+
+Second we have to decide on which pieces of data on a given page we actually
+want to extract, and save.
+
+Knowing what we want to get from a page, we look at the raw webpage, and combining
+the first and second steps to describe what data we want, in a way a computer can
+understand.
+
+The fourth step is to retrieve the webpage
+
+Fifth we use the specification of where on the page the data is located, to extract
+it.
+
+A good guess is, that we want to repeat the process for more than one page. 
+So we rinse and repeat.
+
+And finally we will save the data. A good guess is that we have to do some cleaning
+of the data. We will not cover that in this course.
 
 
 
