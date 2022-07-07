@@ -14,8 +14,8 @@ editor_options:
 
 ```{r, include=FALSE}
 source("../bin/chunk-options.R")
-knitr_fig_path("01-")
-source("../bin/download_data.R")
+knitr_fig_path("03-")
+
 ```
 
 Noget om selenium? java. 

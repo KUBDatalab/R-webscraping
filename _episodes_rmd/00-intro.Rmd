@@ -14,8 +14,7 @@ editor_options:
 
 ```{r, include=FALSE}
 source("../bin/chunk-options.R")
-knitr_fig_path("01-")
-source("../bin/download_data.R")
+knitr_fig_path("00-")
 ```
 
 This is not an introduction to R. We are assuming that you have a
