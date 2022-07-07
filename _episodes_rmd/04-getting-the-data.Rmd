@@ -1,0 +1,29 @@
+---
+title: "html-struktur, hvad gemmer der sig bag skærmen?"
+teaching: 50
+exercises: 30
+questions:
+- "Hvad gemmer der sig bag skærmen??"
+objectives: 
+- "Vi skal forstå hvad der sker i html'en."
+source: Rmd
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r, include=FALSE}
+source("../bin/chunk-options.R")
+knitr_fig_path("04-")
+
+```
+
+Nu har vi en side. Og vi ved hvad vi skal have - hvad gør vi så?
+
+Gem.
+
+
+
+
+
+{% include links.md %}

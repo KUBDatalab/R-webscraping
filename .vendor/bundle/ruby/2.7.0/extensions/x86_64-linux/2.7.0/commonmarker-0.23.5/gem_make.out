@@ -1,0 +1,193 @@
+current directory: /home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker
+/opt/hostedtoolcache/Ruby/2.7.6/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.7.6/x64/lib/ruby/2.7.0 -r ./siteconf20220707-11140-1lenvt3.rb extconf.rb
+creating Makefile
+
+current directory: /home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker
+make "DESTDIR=" clean
+make[1]: Entering directory '/home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker'
+Makefile:175: warning: overriding recipe for target 'clean'
+–Ó4
+xU:175: warning: ignoring old recipe for target 'clean'
+Makefile:182: warning: overriding recipe for target 'distclean'
+–Ó4
+xU:182: warning: ignoring old recipe for target 'distclean'
+Makefile:190: warning: overriding recipe for target 'install-so'
+–Ó4
+xU:190: warning: ignoring old recipe for target 'install-so'
+Makefile:200: warning: overriding recipe for target 'pre-install-rb-default'
+–Ó4
+xU:200: warning: ignoring old recipe for target 'pre-install-rb-default'
+Makefile:202: warning: overriding recipe for target '.sitearchdir.-.commonmarker.time'
+–Ó4
+xU:202: warning: ignoring old recipe for target '.sitearchdir.-.commonmarker.time'
+Makefile:212: warning: overriding recipe for target '.cc.o'
+–Ó4
+xU:212: warning: ignoring old recipe for target '.cc.o'
+Makefile:216: warning: overriding recipe for target '.cc.S'
+–Ó4
+xU:216: warning: ignoring old recipe for target '.cc.S'
+Makefile:220: warning: overriding recipe for target '.mm.o'
+–Ó4
+xU:220: warning: ignoring old recipe for target '.mm.o'
+Makefile:224: warning: overriding recipe for target '.mm.S'
+–Ó4
+xU:224: warning: ignoring old recipe for target '.mm.S'
+Makefile:228: warning: overriding recipe for target '.cxx.o'
+–Ó4
+xU:228: warning: ignoring old recipe for target '.cxx.o'
+Makefile:232: warning: overriding recipe for target '.cxx.S'
+–Ó4
+xU:232: warning: ignoring old recipe for target '.cxx.S'
+Makefile:236: warning: overriding recipe for target '.cpp.o'
+–Ó4
+xU:236: warning: ignoring old recipe for target '.cpp.o'
+Makefile:240: warning: overriding recipe for target '.cpp.S'
+–Ó4
+xU:240: warning: ignoring old recipe for target '.cpp.S'
+Makefile:244: warning: overriding recipe for target '.c.o'
+–Ó4
+xU:244: warning: ignoring old recipe for target '.c.o'
+Makefile:248: warning: overriding recipe for target '.c.S'
+–Ó4
+xU:248: warning: ignoring old recipe for target '.c.S'
+Makefile:252: warning: overriding recipe for target '.m.o'
+–Ó4
+xU:252: warning: ignoring old recipe for target '.m.o'
+Makefile:256: warning: overriding recipe for target '.m.S'
+–Ó4
+xU:256: warning: ignoring old recipe for target '.m.S'
+Makefile:260: warning: overriding recipe for target 'commonmarker.so'
+–Ó4
+xU:260: warning: ignoring old recipe for target 'commonmarker.so'
+make[1]: Leaving directory '/home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker'
+
+current directory: /home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker
+make "DESTDIR="
+make[1]: Entering directory '/home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker'
+Makefile:175: warning: overriding recipe for target 'clean'
+–ﬁc_V:175: warning: ignoring old recipe for target 'clean'
+Makefile:182: warning: overriding recipe for target 'distclean'
+–ﬁc_V:182: warning: ignoring old recipe for target 'distclean'
+Makefile:190: warning: overriding recipe for target 'install-so'
+–ﬁc_V:190: warning: ignoring old recipe for target 'install-so'
+Makefile:200: warning: overriding recipe for target 'pre-install-rb-default'
+–ﬁc_V:200: warning: ignoring old recipe for target 'pre-install-rb-default'
+Makefile:202: warning: overriding recipe for target '.sitearchdir.-.commonmarker.time'
+–ﬁc_V:202: warning: ignoring old recipe for target '.sitearchdir.-.commonmarker.time'
+Makefile:212: warning: overriding recipe for target '.cc.o'
+–ﬁc_V:212: warning: ignoring old recipe for target '.cc.o'
+Makefile:216: warning: overriding recipe for target '.cc.S'
+–ﬁc_V:216: warning: ignoring old recipe for target '.cc.S'
+Makefile:220: warning: overriding recipe for target '.mm.o'
+–ﬁc_V:220: warning: ignoring old recipe for target '.mm.o'
+Makefile:224: warning: overriding recipe for target '.mm.S'
+–ﬁc_V:224: warning: ignoring old recipe for target '.mm.S'
+Makefile:228: warning: overriding recipe for target '.cxx.o'
+–ﬁc_V:228: warning: ignoring old recipe for target '.cxx.o'
+Makefile:232: warning: overriding recipe for target '.cxx.S'
+–ﬁc_V:232: warning: ignoring old recipe for target '.cxx.S'
+Makefile:236: warning: overriding recipe for target '.cpp.o'
+–ﬁc_V:236: warning: ignoring old recipe for target '.cpp.o'
+Makefile:240: warning: overriding recipe for target '.cpp.S'
+–ﬁc_V:240: warning: ignoring old recipe for target '.cpp.S'
+Makefile:244: warning: overriding recipe for target '.c.o'
+–ﬁc_V:244: warning: ignoring old recipe for target '.c.o'
+Makefile:248: warning: overriding recipe for target '.c.S'
+–ﬁc_V:248: warning: ignoring old recipe for target '.c.S'
+Makefile:252: warning: overriding recipe for target '.m.o'
+–ﬁc_V:252: warning: ignoring old recipe for target '.m.o'
+Makefile:256: warning: overriding recipe for target '.m.S'
+–ﬁc_V:256: warning: ignoring old recipe for target '.m.S'
+Makefile:260: warning: overriding recipe for target 'commonmarker.so'
+–ﬁc_V:260: warning: ignoring old recipe for target 'commonmarker.so'
+compiling arena.c
+compiling autolink.c
+compiling blocks.c
+compiling buffer.c
+compiling cmark.c
+compiling cmark_ctype.c
+compiling commonmark.c
+compiling commonmarker.c
+In file included from houdini.h:9,
+                 from commonmarker.c:3:
+config.h:8: warning: "HAVE_STDBOOL_H" redefined
+    8 | #define HAVE_STDBOOL_H
+      | 
+In file included from /opt/hostedtoolcache/Ruby/2.7.6/x64/include/ruby-2.7.0/ruby/ruby.h:24,
+                 from /opt/hostedtoolcache/Ruby/2.7.6/x64/include/ruby-2.7.0/ruby.h:33,
+                 from commonmarker.h:9,
+                 from commonmarker.c:1:
+/opt/hostedtoolcache/Ruby/2.7.6/x64/include/ruby-2.7.0/x86_64-linux/ruby/config.h:26: note: this is the location of the previous definition
+   26 | #define HAVE_STDBOOL_H 1
+      | 
+compiling core-extensions.c
+compiling ext_scanners.c
+compiling footnotes.c
+compiling houdini_href_e.c
+compiling houdini_html_e.c
+compiling houdini_html_u.c
+compiling html.c
+compiling inlines.c
+compiling iterator.c
+compiling latex.c
+compiling linked_list.c
+compiling man.c
+compiling map.c
+compiling node.c
+compiling plaintext.c
+compiling plugin.c
+compiling references.c
+compiling registry.c
+compiling render.c
+compiling scanners.c
+compiling strikethrough.c
+compiling syntax_extension.c
+compiling table.c
+compiling tagfilter.c
+compiling tasklist.c
+compiling utf8.c
+compiling xml.c
+linking shared-object commonmarker/commonmarker.so
+make[1]: Leaving directory '/home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker'
+
+current directory: /home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker
+make "DESTDIR=" install
+make[1]: Entering directory '/home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker'
+Makefile:175: warning: overriding recipe for target 'clean'
+–æ®ÚU:175: warning: ignoring old recipe for target 'clean'
+Makefile:182: warning: overriding recipe for target 'distclean'
+–æ®ÚU:182: warning: ignoring old recipe for target 'distclean'
+Makefile:190: warning: overriding recipe for target 'install-so'
+–æ®ÚU:190: warning: ignoring old recipe for target 'install-so'
+Makefile:200: warning: overriding recipe for target 'pre-install-rb-default'
+–æ®ÚU:200: warning: ignoring old recipe for target 'pre-install-rb-default'
+Makefile:202: warning: overriding recipe for target '.sitearchdir.-.commonmarker.time'
+–æ®ÚU:202: warning: ignoring old recipe for target '.sitearchdir.-.commonmarker.time'
+Makefile:212: warning: overriding recipe for target '.cc.o'
+–æ®ÚU:212: warning: ignoring old recipe for target '.cc.o'
+Makefile:216: warning: overriding recipe for target '.cc.S'
+–æ®ÚU:216: warning: ignoring old recipe for target '.cc.S'
+Makefile:220: warning: overriding recipe for target '.mm.o'
+–æ®ÚU:220: warning: ignoring old recipe for target '.mm.o'
+Makefile:224: warning: overriding recipe for target '.mm.S'
+–æ®ÚU:224: warning: ignoring old recipe for target '.mm.S'
+Makefile:228: warning: overriding recipe for target '.cxx.o'
+–æ®ÚU:228: warning: ignoring old recipe for target '.cxx.o'
+Makefile:232: warning: overriding recipe for target '.cxx.S'
+–æ®ÚU:232: warning: ignoring old recipe for target '.cxx.S'
+Makefile:236: warning: overriding recipe for target '.cpp.o'
+–æ®ÚU:236: warning: ignoring old recipe for target '.cpp.o'
+Makefile:240: warning: overriding recipe for target '.cpp.S'
+–æ®ÚU:240: warning: ignoring old recipe for target '.cpp.S'
+Makefile:244: warning: overriding recipe for target '.c.o'
+–æ®ÚU:244: warning: ignoring old recipe for target '.c.o'
+Makefile:248: warning: overriding recipe for target '.c.S'
+–æ®ÚU:248: warning: ignoring old recipe for target '.c.S'
+Makefile:252: warning: overriding recipe for target '.m.o'
+–æ®ÚU:252: warning: ignoring old recipe for target '.m.o'
+Makefile:256: warning: overriding recipe for target '.m.S'
+–æ®ÚU:256: warning: ignoring old recipe for target '.m.S'
+Makefile:260: warning: overriding recipe for target 'commonmarker.so'
+–æ®ÚU:260: warning: ignoring old recipe for target 'commonmarker.so'
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20220707-11140-11llgxw/commonmarker
+make[1]: Leaving directory '/home/runner/work/R-webscraping/R-webscraping/.vendor/bundle/ruby/2.7.0/gems/commonmarker-0.23.5/ext/commonmarker'
